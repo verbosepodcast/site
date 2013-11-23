@@ -1,0 +1,10 @@
+name: Verbose Podcast
+description: Show notes from the incredibly niche Verbose Podcast
+markdown: redcarpet
+pygments: true
+permalink: /:title
+source: .
+destination: ./_site
+paginate: 5 
+url: http://verbosepodca.st
+future: false

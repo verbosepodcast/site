@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>{{ page.title }}</title>
+      <meta name="viewport" content="width=device-width">
+      <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.1/pure-min.css">
+      <link rel="stylesheet" href="/combo/1.5.4?/css/layouts/marketing.css">    
+      <script src="http://use.typekit.net/ajf8ggy.js"></script>
+      <link rel="stylesheet" href="/css/syntax.css">
+      <link rel="stylesheet" href="/css/main.css">
+      <script>
+      try { Typekit.load(); } catch (e) {}
+      </script>
+    </head>
+    <body>
+      <div class="content">
+        <div class="header">
+          <div class="pure-menu pure-menu-open pure-menu-fixed pure-menu-horizontal">
+            <a class="pure-menu-heading" href="">Verbose</a>
+          </div>
+        </div>
+        <div class="splash">
+          <div class="pure-g-r">
+            <div class="pure-u-1-3">
+              <div class="l-box splash-image">
+                <img src="http://verbose-ireland.s3.amazonaws.com/images/the-verbose-podcast.jpg" width="200">
+              </div>
+            </div>
+          <div class="pure-u-2-3">
+            <div class="l-box splash-text">
+              <h1 class="splash-head">
+                Verbose
+              </h1>
+              <p class="splash-subhead">
+                  The Verbose Podcast is a monthly Apple tech podcast presented by <strong>Oisin Hurley</strong>, <strong>Karl Monaghan</strong> &amp; <strong>Liam Dunne</strong>.
+              </p>
+              Subscribe via : <a href="http://verbose-ireland.s3.amazonaws.com/the-verbose-podcast.xml">RSS Feed</a> • <a href="https://itunes.apple.com/ie/podcast/the-verbose-podcast/id652218985">iTunes</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="site">
+        {{ content }}
+      </div>
+    </body>
+</html>
