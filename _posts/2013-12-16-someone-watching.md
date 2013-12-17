@@ -13,7 +13,7 @@ Between the NSA watching our every move, and us watching our users every move (v
 
 #### Shownotes:
 
- * ACLU.org: Meet Jack. Or, What The Government Could Do With All That Location Data [https://www.aclu.org/meet-jack-or-what-government-could-do-all-location-data]
+ * ACLU.org: (Meet Jack. Or, What The Government Could Do With All That Location Data)[https://www.aclu.org/meet-jack-or-what-government-could-do-all-location-data]
  * Transitional Interfaces: by Pasquale D'Silva [https://medium.com/design-ux/926eb80d64e3]
  * Designing with Animation: by Pasquale D'Silva [https://www.youtube.com/watch?v=TMe0WnkF1Lc&featu]
  * From Cartoons to the User Interface (1993): Bay-Wei Chang & David Ungar [http://selflanguage.org/_static/published/animation.pdf]
