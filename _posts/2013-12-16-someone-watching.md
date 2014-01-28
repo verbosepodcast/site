@@ -1,13 +1,13 @@
 ---
 layout: post
 episode:  "Episode 7"
-title: "Somebody's Watching Me"
+title: ""
 date:   2013-12-14 20:32:16
-imagecaption: "Somebody's Watching Me"
 ---
 
-####Episode 7
-###Somebody's Watching Me
+----
+
+##Episode 7: Somebody's Watching Me
 
 Between the NSA watching our every move, and us watching our users every move (via analytics), our collective paranoia has never been higher. Also: we discuss how animation principles can be applied to making better user interfaces in our apps. We also briefly mention Anchorman 2, which none of us have actually seen yet.
 

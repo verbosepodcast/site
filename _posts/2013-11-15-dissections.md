@@ -1,13 +1,13 @@
 ---
 layout: post
 episode:  "Episode 4"
-title: "Dissections"
+title: ""
 date:   2013-11-15 13:41:29
-imagecaption: "Dissections"
 ---
 
-####Episode 4
-###Dissections
+----
+
+##Episode 4: Dissections
 
 In which the minutiae of announcements made by Apple at their September 10th event regarding the new iPhone 5S and 5C are dissected and examined at great length, and in which iWork is glanced at rather briefly.
 

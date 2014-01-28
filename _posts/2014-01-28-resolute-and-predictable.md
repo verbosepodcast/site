@@ -1,13 +1,10 @@
 ---
 layout: post
 episode:  "Episode 8"
-title: "Resolute and Predictable"
-date:   2014-01-28 19:12:11
-imagecaption: "Resolute and Predictable"
+title: ""
 ---
 
-####Episode 8
-###Resolute and Predictable
+##Episode 8: Resolute and Predictable
 
 In which we square our chins, gird our loins, bare our teeth and turn our gaze to the future. It’s not a good look for any of us. We talk a little about some of our crowd-sourced resolutions and predictions for the new year, some of which may prove to be more elusive than others.
 

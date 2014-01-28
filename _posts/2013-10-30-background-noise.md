@@ -1,13 +1,14 @@
 ---
 layout: post
 episode:  "Episode 1"
-title: "Background Noise"
+title: ""
 date:   2013-10-30 13:41:29
-imagecaption: "Background Noise"
 ---
 
-####Episode 1
-###Background Noise
+----
+
+##Episode 1: Background Noise
+
 First episode! Recorded around a single mic, so we're accompanied by a backdrop of creaking chairs and floorboards.
 
 ####Shownotes:

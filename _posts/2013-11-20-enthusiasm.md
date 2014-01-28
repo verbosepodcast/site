@@ -1,13 +1,13 @@
 ---
 layout: post
 episode:  "Episode 5"
-title: "Enthusiasm"
+title: ""
 date:   2013-11-20 13:41:29
-imagecaption: "Enthusiasm"
 ---
 
-####Episode 5
-###Enthusiasm
+----
+
+##Episode 5: Enthusiasm
 
 In which several forthcoming things are discussed at great length with much enthusiasm, with a rising fervour growing to a feverish pitch, and ending with lots of giddy excitement.
 

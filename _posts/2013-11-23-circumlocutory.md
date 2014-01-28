@@ -1,13 +1,13 @@
 ---
 layout: post
 episode:  "Episode 6"
-title: "Circumlocutory"
+title: ""
 date:   2013-11-23 13:41:29
-imagecaption: "Circumlocutory"
 ---
 
-####Episode 6
-###Circumlocutory
+----
+
+##Episode 6: Circumlocutory
 
 This is a big one. Supersized, if you will. We podcasted the hell out of the podcast this week, I can tell you. It's called Verbose for a reason. Plus: more cursing!.
 
