@@ -1,16 +1,12 @@
 ---
 layout: post
-episode:  "Episode 9"
+episode: "Episode 9"
 title: ""
-date:   2014-02-13 20:32:16
 ---
-
-----
-
 
 ##Episode 9: Sporadic, My Ass
 
-In which we deny rumours of our sporadic output, we get in a flap about app-flipping, we make insulting comments about known homophobes, racists and each other, and we discuss security &amp; encryption in relation to mobile app data.
+In which we deny rumours of our sporadic output, we get in a flap about app-flipping, we make insulting comments about known homophobes, racists and each other, and we discuss security and encryption in relation to mobile app data.
 And for the first time on Verbose, there's an after-show section! We basically just forgot to stop the recording and continued to drink beer.
 
 #### Shownotes:

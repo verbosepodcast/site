@@ -2,7 +2,10 @@
 layout: post
 episode:  "Episode 8"
 title: ""
+date:   2014-01-28 23:12:21
 ---
+
+----
 
 ##Episode 8: Resolute and Predictable
 
