@@ -3,11 +3,18 @@ layout: default
 title: Verbose Podcast  
 ---
 
-<div id="home">
-  <ul class="posts">
-    {% for post in site.posts %}
-      {{ post.title }}
-      {{ post.content }}
-    {% endfor %}
-  </ul>
-</div>
+{% for post in site.posts %}
+	<div class="latest-container">
+	  <div class="section-left">
+	    <div class="section-image">
+	      <img src="images/flappy.jpg">
+	    </div>
+	  </div>
+	  <div class="section-right">
+	    <p class="date">13th of Feburary, 2014</p>
+	    <h3 class="episode-title">{{ post.title }}</h3>
+	    <p class="info">{{ post.content }}</p>
+	  </div>
+	  <div class="clear"></div>
+	</div>
+{% endfor %}
