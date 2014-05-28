@@ -16,9 +16,9 @@ In which we start off by drinking too much assorted beers, and it all goes rapid
 * Jennifer Brook's [Time Machine](http://jenniferbrook.co/post/84403426377/timemachine)
 * [DynamicsXray](http://dynamicxray.net), a UIKit Dynamics runtime visualisation and introspection library.
 * Beats by Dre:
-- [Beats/Monster](http://gizmodo.com/i-for-one-am-grateful-for-monsters-efforts-in-bringing-473313085)
-- [Beats, Why?](http://nymag.com/daily/intelligencer/2014/05/apple-is-buying-beats-but-why.html)
-- [Streaming Music](http://nymag.com/daily/intelligencer/2014/05/can-apple-and-beats-fix-streaming-music.html)
+  - [Beats/Monster](http://gizmodo.com/i-for-one-am-grateful-for-monsters-efforts-in-bringing-473313085)
+  - [Beats, Why?](http://nymag.com/daily/intelligencer/2014/05/apple-is-buying-beats-but-why.html)
+  - [Streaming Music](http://nymag.com/daily/intelligencer/2014/05/can-apple-and-beats-fix-streaming-music.html)
 * WWDC Predictions! Mostly inaccurate.
 * iOS8? or will it be iOS7s?
 * iOS 7 Squandered a Year of Third-Party Development on [Superficial Changes](http://blog.jaredsinclair.com/post/84237156390/ios-7-squandered-a-year-of-third-party-development-on)
