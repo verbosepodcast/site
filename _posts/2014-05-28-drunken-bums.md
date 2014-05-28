@@ -1,7 +1,7 @@
 ---
 layout: post
 episode: "Episode 12"
-title: "Drunken Bums"
+title: ""
 ---
 
 ----
