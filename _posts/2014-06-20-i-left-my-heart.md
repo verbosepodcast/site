@@ -17,8 +17,8 @@ In which we swiftly discuss the events of the previous week at great length, and
 * Karl wants a monocle
 * Swiftly moving on...
 * iOS Developers Need to Know [Objective-C](http://www.bignerdranch.com/blog/ios-developers-need-to-know-objective-c/)
-* Dave Addey writes a book
-* The Videos
+* Dave Addey writes a [book](https://itunes.apple.com/ie/book/swift-programming-language/id881256329?mt=11)
+* The [Videos](https://developer.apple.com/videos/wwdc/2014/)
 * The Frameworks
 * [Everything is broken](https://medium.com/message/everything-is-broken-81e5f33a24e1)
 * The Playground
@@ -29,7 +29,7 @@ In which we swiftly discuss the events of the previous week at great length, and
 * Karl's massive roll, and the associated [livetweets](https://twitter.com/search?q=karlvsfood&src=typd)
 * The Bacon
 * The Yosemite
-* Coast to Coast Toast to Toast Kickstarter (non-<a href="https://www.kickstarter.com/projects/thefatpig/coast-to-coast-toast-to-toast">starter)</a>
+* Coast to Coast Toast to Toast Kickstarter non[starter](https://www.kickstarter.com/projects/thefatpig/coast-to-coast-toast-to-toast)
 * CommandLine Corner:
 	- [OpenSnoop](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/opensnoop.1m.html)
 	- [Synx](https://github.com/venmo/synx)
